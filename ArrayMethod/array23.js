@@ -9,3 +9,4 @@ console.log(squaredAndFlattened);
 
 
 // ? map과 flatmap의 차이점은 리턴값이 여러개가 나와서 배열이 추가되는 일이 생겨도 해결될 수 있냐 없냐이다. 
+// ? flatmap이라는 것이 여러리턴값을 넣을때 중복된 괄호들을 제거하는 역할
